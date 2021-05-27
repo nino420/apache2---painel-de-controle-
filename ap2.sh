@@ -16,7 +16,7 @@ echo "  [3]  stop server"
 echo "  [4]  kill proocess  and start server"
 echo "  [5]  delete httpd"
 echo "----------------------------------------------------------->
-echo "[selcione de 1 a até o número 5]"
+echo "[selcione de 1  até o número 5]"
 
 read n
 case $n in
