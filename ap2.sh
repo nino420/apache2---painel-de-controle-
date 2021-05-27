@@ -20,7 +20,7 @@ read n
 case $n in
   1)   killall httpd;;
   2)  apachectl start;;
-  3)  apchectl  stop;;
+  3)  apachectl  stop;;
   *)  echo "invalid option";;
         
 esac
