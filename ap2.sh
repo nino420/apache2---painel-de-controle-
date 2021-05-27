@@ -13,7 +13,7 @@ echo "----------------------------------------------------------->
 echo "  [1]  kill process"
 echo "  [2]  start server"
 echo "  [3]  stop server"
-echo "  [4]  kill proocess  and start server"
+echo "  [4]  kill proocess  && start server"
 echo "  [5]  delete httpd"
 echo "----------------------------------------------------------->
 echo "[selcione de 1  até o número 5]"
